@@ -1,0 +1,11 @@
+langchain
+streamlit
+boto3
+faiss-cpu
+PyPDF2
+langchain-community
+langchain-aws
+google
+langchain-google-genai
+dotenv
+gtts
